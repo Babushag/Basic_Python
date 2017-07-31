@@ -19,7 +19,7 @@ class test
  }
 }
 
-object hello
+object CompObjectEx
 {
 def main(args:Array[String])
 {
